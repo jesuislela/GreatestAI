@@ -1,10 +1,11 @@
 # GreatestAI
 Hi, I'm coding
 Goodnight
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aingargiola.Aingargiola" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ashley.Ashley" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:wave:;+I'm+Ashley+Williams!;" />
-</h1><h3 align="center">A passionate learner from St. Louis</h3>
+</h1>
+<h3 align="center">A passionate learner from St. Louis</h3>
 <br/>
 <div align="center">
  :telescope: I'm currently working on **My Certifications**
