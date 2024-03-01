@@ -67,7 +67,7 @@ read input
         then echo "Hello World!"
     elif [ $input == 2 ]
         then ping -c 1 192.168.0.1
-    elif [ $input == 3 ]
+    #     elif [ $input == 3 ]
         then ipconfig
     else echo "Invalid entry"
 fi
